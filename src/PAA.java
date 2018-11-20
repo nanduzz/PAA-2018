@@ -1,3 +1,8 @@
+/*
+ * Fernando Eugenio Augusto de Carvalho          RA:88408
+ * Tatiane Fernandes Paz Gaieski                 RA 89354
+ */
+
 import java.util.Scanner;
 
 public class PAA {
